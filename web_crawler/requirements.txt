@@ -1,0 +1,7 @@
+coloredlogs==10.0
+requests==2.20.1
+requests-html==0.10.0
+python-magic>=0.4.15
+urllib3==1.22
+tinydb==3.13.0
+argparse
